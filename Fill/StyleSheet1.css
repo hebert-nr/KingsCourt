@@ -1,0 +1,44 @@
+﻿body {
+    background:#dedbc8;
+}
+
+
+
+.TableHeaderFormat { text-align: left; font-weight: 100; padding: 10px; font-size: 16pt; color: white; background-color: #7194B6; }
+#NoData { color:red; background:black;}
+div.king { border-bottom:3px solid #ff6a00; color:#f00; Background:black}
+    div.king > p { color:black; background:#1e1212;}
+        div.king > p.real {
+            color: red;
+            font-size: 30px;
+            text-shadow: 1px 1px 2px black;
+        }
+        div.king > p.to {
+            color: #7194B6;
+            font-size: 30px;
+            text-shadow: 1px 1px 2px black;
+        }
+div > button {margin: 30px; padding: 20px;color:white; background:#3d3733; font-family:Calibri; }
+.goHere {color:yellow; Background:black; font-size:30px; }
+    .goHere:visited {
+        color: white;
+    }
+        .goHere:visited:hover {
+            color: orange;
+        }
+
+#goThere {color:yellow; Background:black; font-size:30px; }
+    #goThere:visited {
+        color: white;
+    }
+        #goThere:visited:hover {
+            color: orange;
+        }
+.incomelink {color:yellow; Background:black; font-size:30px; }
+
+
+#ddllink:link {color: red;} 
+.ddllink:visited{ color: white;}
+.ddllink:visited:hover{color: #7194B6;}
+.incomelink:visited {color:white;}
+    .incomelink:visited:hover {color: orange;}
