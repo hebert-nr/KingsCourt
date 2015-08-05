@@ -78,6 +78,6 @@
         </asp:SqlDataSource>
       </form>
 
-    <p id="goThere">Head back to the basic <asp:HyperLink CssClass="ddllink" ID="FillrUpLink" runat="server" NavigateUrl="~/FillerUp.aspx">Search</asp:HyperLink> function</p>
+    <p id="goThere">Head back to the basic <asp:HyperLink CssClass="ddllink" ID="FillrUpLink" runat="server" NavigateUrl="~/Index.aspx">Search</asp:HyperLink> function</p>
           </body>
     </html>

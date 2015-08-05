@@ -59,7 +59,7 @@
   <ItemGroup>
     <Content Include="Default.aspx" />
     <Content Include="DropDown.aspx" />
-    <Content Include="FillerUp.aspx" />
+    <Content Include="Index.aspx" />
     <Content Include="StyleSheet1.css" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>
@@ -86,12 +86,12 @@
     <Compile Include="DropDown.aspx.designer.cs">
       <DependentUpon>DropDown.aspx</DependentUpon>
     </Compile>
-    <Compile Include="FillerUp.aspx.cs">
-      <DependentUpon>FillerUp.aspx</DependentUpon>
+    <Compile Include="Index.aspx.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="FillerUp.aspx.designer.cs">
-      <DependentUpon>FillerUp.aspx</DependentUpon>
+    <Compile Include="Index.aspx.designer.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="WebForm1.aspx.cs">

@@ -3,3 +3,8 @@ z:\my documents\visual studio 2012\Projects\Fill\Fill\bin\Fill.pdb
 z:\my documents\visual studio 2012\Projects\Fill\Fill\obj\Debug\Fill.dll
 z:\my documents\visual studio 2012\Projects\Fill\Fill\obj\Debug\Fill.pdb
 z:\my documents\visual studio 2012\Projects\Fill\Fill\obj\Debug\Fill.csprojResolveAssemblyReference.cache
+Z:\KingsCourt\Fill\bin\Fill.dll
+Z:\KingsCourt\Fill\bin\Fill.pdb
+Z:\KingsCourt\Fill\obj\Debug\Fill.csprojResolveAssemblyReference.cache
+Z:\KingsCourt\Fill\obj\Debug\Fill.dll
+Z:\KingsCourt\Fill\obj\Debug\Fill.pdb

@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="WebForm1.aspx.cs" Inherits="Fill.WebForm1" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="WebForm1.aspx.cs" Inherits="Fill.WebForm1" MaintainScrollPositionOnPostback="true" %>
 
 <!DOCTYPE html>
 
@@ -116,7 +116,7 @@
             </UpdateParameters>
         </asp:SqlDataSource>
 
-        <a><asp:HyperLink CssClass="goHere" ID="FillrUpLink" runat="server" NavigateUrl="~/FillerUp.aspx">Back</asp:HyperLink></a>
+        <a><asp:HyperLink CssClass="goHere" ID="FillrUpLink" runat="server" NavigateUrl="~/Index.aspx">Back</asp:HyperLink></a>
     </form>
 </body>
 </html>
